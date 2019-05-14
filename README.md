@@ -1,5 +1,2 @@
 # Aleksin
-Hello, this is my repository
-I'm boy from finland.
-I have mum, dad and sis.
-I don't have anymore what to say.
+Hello, this is my repositor. I live in finland, but i would like to live in australia or america, because there is much more to do than here in finland.
